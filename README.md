@@ -15,3 +15,5 @@ Solution:
         -json
         
 The data frame was read with the help of pandas library. Then, the data read from the names.json file was replaced with 1 values according to the written condition statement. By keeping the counter, we transferred the counter value, which we recorded, to the array created with the help of NumPy library. Finally, we visualized the requested data using the Matplotlib library.
+
+Also you can find the .png file for the asked bar plot in this repo.
